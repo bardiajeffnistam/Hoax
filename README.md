@@ -14,3 +14,5 @@ Total: $6.98
 System.out.println("Thanks for Shopping with Us!");
 '''
 Edit added by: Mackenzie Gibson
+## Collaboration Acknowledgment
+This project was reviewed and edited by [Mackenzie Gibson] on GitHub.
