@@ -9,3 +9,8 @@ Item: Milk
 Price: $3.49
 Quantity: 2
 Total: $6.98
+
+'''java
+System.out.printLn("Thanks for Shopping with Us!");
+'''
+Edit added by: Mackenzie Gibson
