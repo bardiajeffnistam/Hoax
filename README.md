@@ -11,6 +11,6 @@ Quantity: 2
 Total: $6.98
 
 '''java
-System.out.printLn("Thanks for Shopping with Us!");
+System.out.println("Thanks for Shopping with Us!");
 '''
 Edit added by: Mackenzie Gibson
